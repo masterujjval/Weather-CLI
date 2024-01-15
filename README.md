@@ -1,7 +1,7 @@
 # Weather Command Line Tool (Best for Linux, Okayish for Windows)
 
 ## About 
-
+<strong>REQUIRES INTERNET</STRONG>
 This weather app will tell the exact temperature of the place which you will enter. This app is a command line tool created using Python and can easily be executed using the below command:
 
 ```python3 weather-app.py```
